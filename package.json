@@ -1,0 +1,16 @@
+{
+  "name": "ipc_electron",
+  "version": "1.0.0",
+  "description": "Test app using ipc process communication",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "tukruic",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "electron-reload": "^1.2.2",
+    "semantic-ui-css": "^2.2.12"
+  }
+}
